@@ -1,0 +1,1 @@
+{"name":"Go-lani","manifest_version":3,"version":"0.1","description":"레다이렉트 제거 확장프로그램","content_scripts":[{"matches":["https://playentry.org/redirect*"],"js":["script.js"],"all_frames":true}],"permissions":["activeTab"],"icons":{"128":"icon.png"}}
